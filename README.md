@@ -11,14 +11,14 @@ The code developed for the macropad include:
 
 
 BOM:
-  1 x Raspberry Pi Pico
-  9 x Cherry / Gateron Switches
-  1 x Macropad PCB
-  1 x 3D Printed Plate (switch locator & Pico cover)
-  9 x keycaps (3D printed or otherwise)
-  4 x M3 Machine Screws
-  4 x M3 Nuts
-  4 x Rubber adhesive pads
+- Raspberry Pi Pico                                
+- Cherry / Gateron Switches (9)
+- Macropad PCB (1)
+- 3D Printed Plate (switch locator & Pico cover) (1)
+- keycaps (3D printed or otherwise) (9)
+- M3 Machine Screws (4)
+- M3 Nuts (4)
+- Rubber adhesive pads (4+)
 
 
 All CAD files, GERBER files and code is available for download, manufacturing and 
