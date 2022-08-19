@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-02-08T00:19:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Macro Pad 1"
+        },
+        "Owner": "ishan n melwani <ishan.n.melwani@student.uts.edu.au>",
+        "Size": {
+            "X": 67.83,
+            "Y": 95.46
+        }
+    }
+}
