@@ -4,10 +4,10 @@ The project uses a Raspberry Pi Pico running circuitPython.
 
 
 The code developed for the macropad include:
-    - Numpad
-    - Keypad-controlled mouse
-    - Media control pad
-    - Pin testing (for use during assembly, debugging after soldering)
+- Numpad
+- Keypad-controlled mouse
+- Media control pad
+- Pin testing (for use during assembly, debugging after soldering)
 
 
 BOM:
