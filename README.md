@@ -2,6 +2,7 @@
 A 3D printed 9-key mechanical macropad with custom PCB which assists to consolidate workflow and increase functionality through custom programmable key (and mouse) inputs. 
 The project uses a Raspberry Pi Pico running circuitPython.
 
+https://www.youtube.com/watch?v=quoq31Pnqx4&ab_channel=IshanMelwani
 
 The code developed for the macropad include:
 - Numpad
