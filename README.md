@@ -21,10 +21,4 @@ BOM:
 - Rubber adhesive pads (4+)
 
 
-All CAD files, GERBER files and code is available for download, manufacturing and 
-
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
+All CAD files, GERBER files and code is available for download. 
